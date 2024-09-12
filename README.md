@@ -11,3 +11,5 @@
 [storytelling with data - Storyboarding Blog](https://www.storytellingwithdata.com/blog/2015/8/24/how-i-storyboard)
 
 [storytelling with data - Chart Guide](https://www.storytellingwithdata.com/chart-guide)
+
+[Hands-On Data Visualization](https://handsondataviz.org/)
